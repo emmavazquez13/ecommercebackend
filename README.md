@@ -17,4 +17,4 @@ npm seed
 npm start 
 
 # Video 
-
+https://drive.google.com/file/d/1AxJCqET6LABWPEXNJNCX30EUyb9mVeHt/view
